@@ -1,4 +1,12 @@
 {
-  "posts":[],
-  "scheme":[]
+  "posts":[{
+    "id":"1",
+    "text":"thanks"
+  }],
+  "scheme":[],
+  "users":[{
+    "id":"1",
+    "name":"Learnreact"
+  },{"id":"2",
+    "name":"Learnjs"}]
 }
